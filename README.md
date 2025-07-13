@@ -58,4 +58,8 @@ Model achieves high accuracy distinguishing cats from dogs in images using CNNs.
 ![8](images/Result.png)
 
 
+
+<img width="1440" height="720" alt="Intro Page" src="https://github.com/user-attachments/assets/4f21daef-069d-4737-91cb-30819a558916" />
+
+
 ## ⭐ Give this repo a star if it helped you!

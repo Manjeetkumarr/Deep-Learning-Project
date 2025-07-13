@@ -48,16 +48,6 @@ Model achieves high accuracy distinguishing cats from dogs in images using CNNs.
 
 
 
-## 📁 File Structure
-
-├── Image_Recognition_And_Classification_Project.ipynb
-├── dataset/
-│ └── kagglecatsanddogs_5340.zip
-└── README.md
-
-
-
-
 ## 📌 Future Improvements
 
 - Add more image classes

@@ -55,7 +55,7 @@ Model achieves high accuracy distinguishing cats from dogs in images using CNNs.
 - Implement transfer learning with pre-trained models like ResNet or VGG
 
 
-
+![8](images/Result.png)
 
 
 ## ⭐ Give this repo a star if it helped you!
